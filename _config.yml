@@ -1,1 +1,73 @@
+# Site settings
+title: 银尘_往事：言王           #你博客的标题
+SEOTitle: 银尘_往事| 言王        #显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-rwd.jpg     #显示在首页的背景图片
+email: yanwang4686@gmail.com    
+description: "就算以后要我一个人孤独生活，我也不要忘记过去和你的记忆。"              #网站介绍
+keyword: "BY, BY Blog, 言王的博客, iOS, Apple, iPhone" #关键词
+url: "https://whg123.github.io/SilverDustPast/"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
+
+# Sidebar settings
+sidebar: true                           # 是否开启侧边栏.
+sidebar-about-description: "Goals determine what you going to be!"
+sidebar-avatar:/img/avatar-m.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
+
+
+
+
+
+  #社交账号   展示你的其他社交平台
+# SNS settings  
+RSS: True
+weibo_username:     藏卷
+zhihu_username:     藏卷
+github_username:    Whg123
+facebook_username:  言王
+jianshu_username:   言王
+
+
+  #评论系统
+# Disqus settings（https://disqus.com/）   
+disqus_username: yanwang4686
+
+
+
+
+
+
+
+  #网站统计
+# Analytics settings  
+# Baidu Analytics
+#ba_track_id: 83e259f69b37d02a4633a2b7d960139c
+
+# Google Analytics        
+ga_track_id: 'UA-161646873-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto
+
+
+  #好友关系：暂无
+# friends: [     
+#     {
+#         title: "简书·BY",
+#         href: "http://www.jianshu.com/u/e71990ada2fd"
+#     },{
+#         title: "Apple",
+#         href: "https://apple.com"
+#     },{
+#         title: "Apple Developer",
+#         href: "https://developer.apple.com/"
+#     }
+# ]
+
+
+
+
+
+
+
+
+
+
 theme: jekyll-theme-merlot
