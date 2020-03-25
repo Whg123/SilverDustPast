@@ -1,3 +1,4 @@
+<h2>欢迎来到言王的个人博客，学习编程的半吊子，有一起的朋友欢迎致电个人邮箱:yanwang4686@qq.com<h2>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Whg123/SilverDustPast/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
